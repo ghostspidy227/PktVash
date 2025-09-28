@@ -23,7 +23,8 @@ Designed for quick networking tasks, automation, and simple script execution wit
   Quickly execute a script from your home screen without opening the app.  
 
 - **Scheduling**  
-  Set scripts to run every `5s`, `5min`, `1hr`, etc.  
+  Set scripts to run every `5s`, `5min`, `1hr`, etc.
+  View logs of each execution to monitor progress and results.  
 
 - **24/7 Mode**  
   Keep a script running continuously (useful for bots, servers, or long-running tasks).  
@@ -46,13 +47,9 @@ Designed for quick networking tasks, automation, and simple script execution wit
 
 ## 📸 Screenshots
 
-(Add your screenshots here in place of the placeholders)
-
-| Main Screen | Widgets | Scheduler | 24/7 Mode |
+| Main Screen | Widgets | Scheduler&24/7 | scheduled-logs |
 |-------------|---------|-----------|-----------|
-| ![Main Screen](screenshots/main.png) | ![Widget](screenshots/widget.png) | ![Scheduler](screenshots/scheduler.png) | ![24/7 Mode](screenshots/24-7.png) |
-
-*(Place your actual screenshot files inside a `screenshots/` folder in the repo and update the paths above.)*  
+| ![Main Screen](screenshots/home-page.jpeg) | ![Widget](screenshots/widget.jpeg) | ![Scheduler & 24-7](screenshots/side-menu.jpeg) | ![scheduled-logs](screenshots/scheduled-logs.jpeg) |
 
 ---
 
